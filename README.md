@@ -69,3 +69,4 @@ Basé sur les travaux de pointe en Deep Learning Géométrique :
 
 ---
 *Developed by Bryan Ouellette & Lichen Collective.*
+---
